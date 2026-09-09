@@ -1,8 +1,10 @@
 # 🏢 Cuentiva Platform
 
 <p align="center">
-  <img src="assets/logo.png" alt="Cuentiva Logo" width="160"/>
+  <img src="assets/logo.png" alt="Cuentiva Logo" width="140"/>
   <br>
+  <img src="assets/nombre1.png" alt="Cuentiva" width="220"/>
+  <br><br>
   <strong>Plataforma Inteligente de Gestión de Recaudo y Administración Residencial</strong>
   <br>
   <em>Solución integral para urbanizaciones, condominios y conjuntos residenciales.</em>
@@ -28,14 +30,14 @@
 
 ---
 
-## 📦 Descargas Oficiales (v1.0.0)
+## 📦 Descargas Oficiales (Versión Oficial v1.0.0)
 
-| Plataforma | Tipo de Paquete | Formato | Tamaño | Enlace de Descarga |
-| :--- | :--- | :--- | :--- | :--- |
-| **Android** | Teléfonos y Tablets | `.apk` | ~63.3 MB | [📥 Descargar para Android](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v1.0.0/cuentiva-mobile-v1.0.0.apk) |
-| **Linux Desktop** | Binario Portable (x64) | `.tar.gz` | ~11.6 MB | [📥 Descargar para Linux](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v1.0.0/cuentiva-desktop-linux-x64-v1.0.0.tar.gz) |
-| **Windows Desktop** | Portable / Instalador (x64) | `.exe` / `.zip` | *En preparación* | [💻 Ver detalles de Windows](#-windows-desktop) |
-| **Verificación** | Sumas Criptográficas | `.txt` | 200 B | [📄 Ver SHA256SUMS.txt](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v1.0.0/SHA256SUMS.txt) |
+| Plataforma | Versión | Fecha | Formato | Tamaño | Enlace de Descarga |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| 📱 **Android** | `v1.0.0` | 08/Sep/2026 | `.apk` | ~63.3 MB | [📥 **Descargar para Android**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v1.0.0/cuentiva-mobile-v1.0.0.apk) |
+| 🐧 **Linux Desktop** | `v1.0.0` | 08/Sep/2026 | `.tar.gz` (x64) | ~11.6 MB | [📥 **Descargar para Linux**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v1.0.0/cuentiva-desktop-linux-x64-v1.0.0.tar.gz) |
+| 🪟 **Windows Desktop** | `v1.0.0` | 08/Sep/2026 | `.zip` (x64) | ~13.8 MB | [📥 **Descargar para Windows**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v1.0.0/cuentiva-desktop-windows-x64-v1.0.0.zip) |
+| 📄 **Verificación** | `v1.0.0` | 08/Sep/2026 | `.txt` | 306 B | [📄 **Ver SHA256SUMS.txt**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v1.0.0/SHA256SUMS.txt) |
 
 ---
 
@@ -51,6 +53,7 @@ sha256sum -c SHA256SUMS.txt
 ```text
 c36089ac0ca5a383ff4bb1ee2f2629b14ddea28a0fb5277e7380e43e8f81e284  cuentiva-mobile-v1.0.0.apk
 49430dd1b5576b0a313b9c5f302910c32a2887473f8eb5795d32101590491377  cuentiva-desktop-linux-x64-v1.0.0.tar.gz
+ae7d73a07de58ce7580546e8b5931eade61e55361851fd325f606688b329c3ef  cuentiva-desktop-windows-x64-v1.0.0.zip
 ```
 
 ---
@@ -83,11 +86,16 @@ cd cuentiva
 
 ---
 
-### 🪟 Windows Desktop
+### 🪟 Windows Desktop (Windows 10 / 11 de 64 bits)
 
-La versión de escritorio para Windows está diseñada para equipos de administración y cajas de recaudo en oficina. 
-* Se distribuye como instalador independiente (`.exe`) que crea accesos directos en el menú de inicio y escritorio.
-* Próximamente disponible para descarga directa en esta sección.
+La versión de escritorio para Windows está diseñada para administradores, contadores y cajas de recaudo en oficina:
+
+1. Descargue el archivo **`cuentiva-desktop-windows-x64-v1.0.0.zip`**.
+2. Haga clic derecho sobre el archivo descargado y seleccione **Extraer todo...**.
+3. Abra la carpeta extraída y haga doble clic en **`civica_pago_mobile.exe`**.
+4. ¡Listo! La aplicación se iniciará al instante conectada a la nube.
+
+> *Nota: Es una aplicación totalmente portable; no requiere permisos de administrador ni instalación invasiva en el sistema.*
 
 ---
 
