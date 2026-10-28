@@ -34,11 +34,11 @@
 
 | Plataforma | Versión | Fecha | Formato | Tamaño | Enlace de Descarga |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| 📱 **Android** | `v0.3.1` | 27/Oct/2026 | `.apk` | ~67 MB | [📥 **cuentiva-mobile-v0.3.1.apk**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v0.3.1/cuentiva-mobile-v0.3.1.apk) |
-| 🐧 **Linux Desktop** | `v0.3.1` | 27/Oct/2026 | `.tar.gz` (x64) | ~15 MB | [📥 **cuentiva-desktop-linux-x64-v0.3.1.tar.gz**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v0.3.1/cuentiva-desktop-linux-x64-v0.3.1.tar.gz) |
-| 🪟 **Windows Desktop** | `v0.3.1` | 27/Oct/2026 | `.zip` (x64) | ~16 MB | [📥 **cuentiva-desktop-windows-x64-v0.3.1.zip**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v0.3.1/cuentiva-desktop-windows-x64-v0.3.1.zip) |
-| 🌐 **Aplicación Web** | `v0.3.1` | 27/Oct/2026 | `PWA / Web` | En línea | [🚀 **Abrir Cuentiva Web (PWA)**](https://cuentiva.pages.dev) |
-| 📄 **Verificación** | `v0.3.1` | 27/Oct/2026 | `.txt` | 306 B | [📄 **SHA256SUMS.txt**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v0.3.1/SHA256SUMS.txt) |
+| 📱 **Android** | `v0.3.1` | 28/Oct/2026 | `.apk` | ~67.1 MB | [📥 **cuentiva-mobile-v0.3.1.apk**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v0.3.1/cuentiva-mobile-v0.3.1.apk) |
+| 🐧 **Linux Desktop** | `v0.3.1` | 28/Oct/2026 | `.tar.gz` (x64) | ~13.1 MB | [📥 **cuentiva-desktop-linux-x64-v0.3.1.tar.gz**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v0.3.1/cuentiva-desktop-linux-x64-v0.3.1.tar.gz) |
+| 🪟 **Windows Desktop** | `v0.3.1` | 28/Oct/2026 | `.zip` (x64) | ~16.3 MB | [📥 **cuentiva-desktop-windows-x64-v0.3.1.zip**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v0.3.1/cuentiva-desktop-windows-x64-v0.3.1.zip) |
+| 🌐 **Aplicación Web** | `v0.3.1` | 28/Oct/2026 | `PWA / Web` | En línea | [🚀 **Abrir Cuentiva Web (PWA)**](https://cuentiva.pages.dev) |
+| 📄 **Verificación** | `v0.3.1` | 28/Oct/2026 | `.txt` | 306 B | [📄 **SHA256SUMS.txt**](https://github.com/Cuentiva/Cuentiva-platform/releases/download/v0.3.1/SHA256SUMS.txt) |
 
 ---
 
@@ -52,9 +52,9 @@ sha256sum -c SHA256SUMS.txt
 
 **Hashes Oficiales:**
 ```text
-aca88e7fd0ffcda98f5bb35d0d4d14d429ce11b98f251cf0527308a199cbfefe  cuentiva-desktop-linux-x64-v0.3.1.tar.gz
-159e3e259cc7c2338ff1d1f91e0d2507ed7f62759afab669ebd157fd46efc3b9  cuentiva-desktop-windows-x64-v0.3.1.zip
-f829a375e760909a3794463c709b7584683af5862e1099d375158382921dd7ee  cuentiva-mobile-v0.3.1.apk
+8097918405e2af4afc4816ab5a00646b060e4efd2e44764a5de3ebceec50f427  cuentiva-desktop-linux-x64-v0.3.1.tar.gz
+e7680aac70f550bc838986d7a7775c4534ca7a34b6189ffc5e2645407b27dfaf  cuentiva-desktop-windows-x64-v0.3.1.zip
+98a5af7a46ee088a26eb1d11dbd9425d65ee975977626de3d3b2b5f2b9b659f7  cuentiva-mobile-v0.3.1.apk
 ```
 
 ---
