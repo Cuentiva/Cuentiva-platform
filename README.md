@@ -52,9 +52,9 @@ sha256sum -c SHA256SUMS.txt
 
 **Hashes Oficiales:**
 ```text
-8097918405e2af4afc4816ab5a00646b060e4efd2e44764a5de3ebceec50f427  cuentiva-desktop-linux-x64-v0.3.1.tar.gz
-e7680aac70f550bc838986d7a7775c4534ca7a34b6189ffc5e2645407b27dfaf  cuentiva-desktop-windows-x64-v0.3.1.zip
-98a5af7a46ee088a26eb1d11dbd9425d65ee975977626de3d3b2b5f2b9b659f7  cuentiva-mobile-v0.3.1.apk
+20571d6fe102804b1fd17d9eba39ed958d498b25e24e6397ec8b1d8ef5a468db  cuentiva-desktop-linux-x64-v0.3.1.tar.gz
+f9c8d134b3ef9b59fd1dfb6802e0b3e47c4845cf09b7bd81263b3f8b448d4743  cuentiva-desktop-windows-x64-v0.3.1.zip
+58ec24ac909bec8632fc1e2e06f4774f1bef0188b496f8c21b91a7c902961040  cuentiva-mobile-v0.3.1.apk
 ```
 
 ---
